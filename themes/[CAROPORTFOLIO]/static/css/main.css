@@ -1,0 +1,70 @@
+body {
+    font-family: "Terminal Grotesque", Helvetica, sans-serif;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.wrapper {
+    display: flex;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+.jumbotron {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    background-size: cover;
+    z-index: -1;
+}
+
+#j1 { background-image: url(../img/img7.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j2 { background-image: url(../img/img9.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j3 { background-image: url(../img/img10.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j4 { background-image: url(../img/img5.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j5 { background-image: url(../img/img6.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j6 { background-image: url(../img/img.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j7 { background-image: url(../img/img2.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j8 { background-image: url(../img/img12.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j9 { background-image: url(../img/img8.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j10 { background-image: url(../img/img3.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j11 { background-image: url(../img/img4.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+#j12 { background-image: url(../img/img11.jpg);background-size: cover;
+    z-index: -1; background-repeat: no-repeat; }
+
+.id-mail {
+    text-decoration: none;
+    color: inherit;
+}
+
+.id {
+    margin-left: 10px;
+}
+
+@media only screen and (min-width:480px) {
+    
+}
+@media only screen and (min-device-width : 768px) {
+
+}
