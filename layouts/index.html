@@ -1,4 +1,4 @@
-<!-- <!doctype html>
+<!doctype html>
 <html lang="en">
  <head>
     <meta charset="UTF-8">
@@ -7,10 +7,10 @@
     <title>Caroline Sorin</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
     <link rel="stylesheet" href="css/main.css">
-   <script type="text/javascript" src="../js/script.js"></script> 
+    <!-- <script type="text/javascript" src="../js/script.js"></script> -->
 </head>
 <body>
-    <div class="wrapper">
+   <!-- <div class="wrapper">
         <div class="jumbotron">
             
         </div>
@@ -20,12 +20,20 @@
             Strasbourg, France</p>
             <a href="mailto:hello@carolinesorin.com" class="id-email">hello@carolinesorin.com</a>
         </div>
-    </div> 
-    {{ range .Data.Pages }}
-    <div class="title-box">
-        <h1 class="home-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>  this doesn't appear, whyyyyy?  
-    </div>
-    {{ end }}
+    </div> -->
+    {{ partial "header_fr.html" . }}
+    <section>
+        <div class="title-box">
+            <h1 class="home-title">
+        {{ range .Data.Pages.ByWeight.Reverse }}
+            {{ if eq .Type "fr" }}
+                <a href="{{ .Permalink }}" id="{{ .Title }}">{{ .Title }},</a> <!-- marche si dans le projet, pas dans le theme -->  
+            {{ end }}
+        {{ end }}
+            </h1>
+        </div>
+        <div id="home-image"></div>
+    </section>
+    {{ partial "footer_fr.html" . }}
 </body>
 </html>
--->

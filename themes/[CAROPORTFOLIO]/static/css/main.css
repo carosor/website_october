@@ -1,14 +1,70 @@
 body {
     font-family: "Terminal Grotesque", Helvetica, sans-serif;
     color: black;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: "Terminal Grotesque Open", Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: "Terminal Grotesque", Helvetica, sans-serif;
+    color: black;
+    font-weight: normal;
+    margin-top: 0;
 }
 
 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
     text-decoration: none;
     color: inherit;
 }
 
-.wrapper {
+ul {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+.flex {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+/*
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /*grid-auto-columns: minimax(100px, auto)
+    margin: 40px 10px 10px 10px;
+    grid-gap: 20px;
+    grid-template-areas:
+        "d i"
+        "ii ii"
+        "iii l";
+}*/
+
+/*
+test de flexbox mais pas assez précis, j'aimerais aligner à gauche
+test de grid mais trop rigide
+
+
+ .wrapper {
     display: flex;
     position: absolute;
     top: 0;
@@ -51,7 +107,7 @@ a {
 #j11 { background-image: url(../img/img4.jpg);background-size: cover;
     z-index: -1; background-repeat: no-repeat; }
 #j12 { background-image: url(../img/img11.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
+    z-index: -1; background-repeat: no-repeat; } */
 
 .id-mail {
     text-decoration: none;
@@ -60,11 +116,153 @@ a {
 
 .id {
     margin-left: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    /*position: fixed;*/
+    margin-bottom: 40px;
 }
 
-@media only screen and (min-width:480px) {
-    
+.about {
+    margin-right: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    position: absolute;
+    /*position: fixed;*/
+    margin-bottom: 40px;
+    right: 0;
 }
-@media only screen and (min-device-width : 768px) {
 
+.lang {
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.scrolltop {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+
+.home-title {
+    font-size: 25pt;
+}
+
+.title-box {
+    margin: auto;
+    max-width: 650px;
+}
+
+#home-image {
+    margin: auto;
+    width: 650px;
+    height: 415px;
+    background-image: url(../img/couv.jpg);
+    background-repeat: no-repeat;
+}
+
+section {
+    max-width: 100%;
+    margin: auto;
+}
+
+.medium-box {
+    max-width: 450px;
+    padding: 20px;
+    /*margin-left: auto;
+    margin-right: auto;
+    border: solid 1px;
+    grid-area: d;*/
+}
+
+/*les id suivantes correspondent aux titres-liens de la home page*/
+#confiture:hover {
+    #home-image {
+        background-image: url(../img/img4.jpg);
+    }
+}
+
+/*ici c'est les style pour chaque type de template, minimum 3 éléments :
+une div de description du contenu (et titre), une div de liens vers d'autres
+projets et une ou plusieurs images.*/
+.desc {
+    max-width: 380px;
+    padding: 20px;
+    /*border: solid 1px;
+    grid-area: d;*/
+}
+
+.desc-centered {
+    max-width: 380px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    /*border: solid 1px;
+    grid-area: d;*/
+}
+
+.link {
+    max-width: 200px;
+    z-index: 100;
+    padding: 20px;
+    margin-right: auto;
+    /* grid-area: l;
+    display: inline-block;
+    border: solid 1px;
+    right: 0;
+    position: absolute;*/
+}
+
+.link-right {
+    max-width: 200px;
+    z-index: 100;
+    padding: 20px;
+    margin-left: auto;
+    /* grid-area: l;
+    display: inline-block;
+    border: solid 1px;
+    right: 0;
+    position: absolute;*/
+}
+
+.img-project {
+    max-width: 100%;
+    z-index: -1;
+    /* grid-area: i;
+    position: absolute;
+    margin: 0;*/
+}
+
+
+
+/*.img2 {
+    max-width: 100%;
+    z-index: -1;
+    grid-area: ii;
+    position: absolute;
+    margin: 0;
+}
+
+.img3 {
+    max-width: 100%;
+    z-index: -1;
+    grid-area: iii;
+    position: absolute;
+    margin: 0;
+}
+
+
+footer {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    bottom: 0;
+}*/
+
+@media only screen and (min-width:1400px) {
+    .flex {
+         justify-content: center;
+    }
 }
