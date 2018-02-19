@@ -5,6 +5,9 @@ body {
 }
 
 h1 {
+    display : inline-block;
+    margin : 0 auto;
+    padding : 0;
     font-family: "Terminal Grotesque Open", Helvetica, sans-serif;
     font-weight: normal;
 }
