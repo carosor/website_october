@@ -263,6 +263,6 @@ footer {
 
 @media only screen and (min-width:1400px) {
     .flex {
-         justify-content: center;
+         justify-content: space-around;
     }
 }

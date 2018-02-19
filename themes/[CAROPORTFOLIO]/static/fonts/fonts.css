@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Terminal Grotesque';
+    src: url('terminal-grotesque.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Terminal Grotesque Open';
+    src: url('terminal-grotesque_open.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
