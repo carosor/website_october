@@ -3,13 +3,13 @@
     {{ partial "header_en.html" . }}
     <section>
         <div class="title-box">
-            <h1 class="home-title">
         {{ range .Site.RegularPages.ByWeight.Reverse }}
-            {{ if eq .Type "en" }}
+            {{ if and (eq .Type "en") (ne .Title "Home")}}
+            <h1 class="home-title">
                 <a href="{{ .Permalink }}" id="{{ .Title }}">{{ .Title }},</a> <!-- marche si dans le projet, pas dans le theme -->  
+            </h1>
             {{ end }}
         {{ end }}
-            </h1>
         </div>
         <div id="home-image"></div>
     </section>
