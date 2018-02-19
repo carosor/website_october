@@ -2,6 +2,7 @@ body {
     font-family: "Terminal Grotesque", Helvetica, sans-serif;
     color: black;
     font-weight: normal;
+    padding : 30px;
 }
 
 h1 {
@@ -266,6 +267,6 @@ footer {
 
 @media only screen and (min-width:1400px) {
     .flex {
-         justify-content: space-around;
+        justify-content: space-between;
     }
 }
