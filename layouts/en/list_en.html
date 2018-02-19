@@ -1,36 +1,15 @@
 <!doctype html>
 <html lang="en">
- <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Caroline Sorin</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
-    <link rel="stylesheet" href="css/main.css">
-    <!-- <script type="text/javascript" src="../js/script.js"></script> -->
-</head>
-<body>
-   <!-- <div class="wrapper">
-        <div class="jumbotron">
-            
-        </div>
-        <div class="id">
-            <p class="info">Caroline Sorin<br>
-            Graphic Design student<br>
-            Strasbourg, France</p>
-            <a href="mailto:hello@carolinesorin.com" class="id-email">hello@carolinesorin.com</a>
-        </div>
-    </div> -->
     {{ partial "header_en.html" . }}
     <section>
         <div class="title-box">
-            <h1 class="home-title">
         {{ range .Site.Pages }}
-            {{ if eq .Type "en"}}
+            {{ if and (eq .Type "en") (ne .Title "Home")}}
+            <h1 class="home-title">
                 <a href="{{ .Permalink }}" id="{{ .Title }}">{{ .Title }},</a> <!-- marche si dans le projet, pas dans le theme -->  
+            </h1>
             {{ end }}
         {{ end }}
-            </h1>
         </div>
         <div id="home-image"></div>
     </section>
