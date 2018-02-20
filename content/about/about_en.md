@@ -68,7 +68,7 @@ Initiation to programming
 {{% /makeadiv %}}
 
 {{% makeadiv desc-centered %}}
-My English is intermediate,  I have Spanish notions  and French is my mother tongue.
+My English is intermediate  and French is my mother tongue.
 
 
 {{% /makeadiv %}}
