@@ -1,7 +1,7 @@
 ---
 title: "The Machine in the Ghost"
 date: 2018-01-11T18:31:06+01:00
-draft: true
+draft: false
 type: "fr"
 layout: single_fr
 weight: 9
@@ -41,7 +41,7 @@ Autres projets :
 [Exemplaires](http://www.carolinesorin.com/projects_fr/exemplaires)  
 [The Belgian Cookbook](http://www.carolinesorin.com/projects_fr/belgian)  
 [Lato](http://www.carolinesorin.com/projects_fr/lato)  
-[Mash up](http://www.carolinesorin.com/projects_fr/archi)  
+[Mash Up](http://www.carolinesorin.com/projects_fr/archi)  
 
 {{% /makeadiv %}}
 

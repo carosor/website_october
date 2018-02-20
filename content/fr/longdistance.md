@@ -1,7 +1,7 @@
 ---
-title: "Long distance memories"
+title: "Long-Distance Memories"
 date: 2018-01-11T18:30:38+01:00
-draft: true
+draft: false
 type: "fr"
 layout: single_fr
 weight: 12
@@ -14,7 +14,7 @@ weight: 12
 {{< figure src="../../img/longdistance/img9.jpg" class="img-project" >}}
 
 {{% makeadiv desc %}}
-### Long-distance memories
+### Long-Distance Memories
 
 J’embarque pour un voyage virtuel à travers photos d'enfance, souvenirs et Google Street View vers les endroits où j’ai vécu, espérant y retrouver des traces de mon passage. 
 

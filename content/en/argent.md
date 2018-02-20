@@ -1,10 +1,9 @@
 ---
 title: "Donne-moi tout ton argent"
 date: 2018-01-11T18:33:29+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
-keywords: "project"
 weight: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Exemplaires"
 date: 2017-12-13T18:34:04+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 13

@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 date: 2017-11-30T19:10:09+01:00
-draft: true
+draft: false
 type: "about"
 layout: single_fr
 ---

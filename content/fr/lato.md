@@ -1,7 +1,7 @@
 ---
 title: "Lato"
 date: 2018-01-11T18:18:42+01:00
-draft: true
+draft: false
 type: "fr"
 layout: single_fr
 weight: 6

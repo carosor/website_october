@@ -1,7 +1,7 @@
 ---
 title: "The Belgian Cookbook"
 date: 2018-01-11T18:32:20+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 5
@@ -37,7 +37,7 @@ Other projects:
 [Exemplaires](http://www.carolinesorin.com/en/exemplaires)  
 [Lato](http://www.carolinesorin.com/en/lato)  
 [The Machine in the Ghost](http://www.carolinesorin.com/en/machine)  
-[Mash up](http://www.carolinesorin.com/en/archi)  
+[Mash Up](http://www.carolinesorin.com/en/archi)  
 
 {{% /makeadiv %}}
 

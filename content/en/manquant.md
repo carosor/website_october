@@ -1,7 +1,7 @@
 ---
 title: "Image manquante"
 date: 2017-12-13T18:35:37+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 11

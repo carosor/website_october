@@ -1,7 +1,7 @@
 ---
 title: "Exemplaires"
 date: 2017-12-13T18:34:04+01:00
-draft: true
+draft: false
 type: "fr"
 layout: single_fr
 weight: 13
@@ -73,7 +73,7 @@ Autres projets :
 [The Machine in the Ghost](http://www.carolinesorin.com/projects_fr/machine)  
 [The Belgian Cookbook](http://www.carolinesorin.com/projects_fr/belgian)  
 [Lato](http://www.carolinesorin.com/projects_fr/lato)  
-[Mash up](http://www.carolinesorin.com/projects_fr/archi)  
+[Mash Up](http://www.carolinesorin.com/projects_fr/archi)  
 
 
 {{% /makeadiv %}}

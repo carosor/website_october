@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Italia"
 date: 2018-01-11T18:31:20+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 8

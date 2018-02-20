@@ -1,7 +1,7 @@
 ---
 title: "Lato"
 date: 2018-01-11T18:18:42+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 6
@@ -29,7 +29,7 @@ Other projects:
 [Exemplaires](http://www.carolinesorin.com/en/exemplaires)  
 [The Belgian Cookbook](http://www.carolinesorin.com/en/belgian)  
 [The Machine in the Ghost](http://www.carolinesorin.com/en/machine)  
-[Mash up](http://www.carolinesorin.com/en/archi)  
+[Mash Up](http://www.carolinesorin.com/en/archi)  
 
 {{% /makeadiv %}}
 

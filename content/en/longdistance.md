@@ -1,7 +1,7 @@
 ---
-title: "Long distance memories"
+title: "Long-Distance Memories"
 date: 2018-01-11T18:30:38+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 12
@@ -14,7 +14,7 @@ weight: 12
 {{< figure src="../../img/longdistance/img9.jpg" class="img-project" >}}
 
 {{% makeadiv desc %}}
-### Long-distance memories
+### Long-Distance Memories
 
 I go for a virtual journey through memories, pictures and Google Street View, to places where I have lived. Secretly hoping to find traces of what  I left of me there.
 

@@ -1,6 +1,6 @@
 ---
-title: "Mash up"
-draft: true
+title: "Mash Up"
+draft: false
 type: "fr"
 layout: single_fr
 weight: 2
@@ -11,7 +11,7 @@ weight: 2
 {{< figure src="../../img/archi/img3.jpg" class="img-project" >}}
 
 {{% makeadiv desc %}}
-### Mash up
+### Mash Up
 
 Pointe sèche sur plexiglas, 60 x 80 cm, vingt-cinq tirages uniques, 2013  
 Imprimé aux Ateliers de Sèvres avec l’aide d’Olivier Moriette

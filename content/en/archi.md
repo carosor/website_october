@@ -1,6 +1,6 @@
 ---
-title: "Mash up"
-draft: true
+title: "Mash Up"
+draft: false
 type: "en"
 layout: single_en
 weight: 2

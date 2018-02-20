@@ -1,7 +1,7 @@
 ---
-title: "Not in my backyard"
+title: "Not in my Backyard"
 date: 2018-01-11T18:32:46+01:00
-draft: true
+draft: false
 type: "en"
 layout: single_en
 weight: 1
@@ -12,7 +12,7 @@ weight: 1
 {{< figure src="../../img/backyard/img1.jpg" class="img-project" >}}
 
 {{% makeadiv desc %}}
-### Not in my backyard
+### Not in my Backyard
 
 In 2013, an abandoned train station in a wealthy neighborhood of Paris is about to be replaced by a block of council flats despite the loud opposition of its neighbors. A few weeks before the works begin, I went there to immortalize this urban wasteland, symbol of the class war in the 16th arrondissement.
 
