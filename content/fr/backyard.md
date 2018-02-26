@@ -24,10 +24,10 @@ En 2013, le site de l'ancienne gare d'Auteuil, à l'abandon depuis plusieurs diz
 {{% makeadiv link %}}
 Autres projets :
 
-[Intra-muros](http://www.carolinesorin.com/projects_fr/intramuros)  
-[Confiture](http://www.carolinesorin.com/projects_fr/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/projects_fr/argent)  
-[Top 10 Italia](http://www.carolinesorin.com/projects_fr/italia)  
+[Intra-muros](http://www.carolinesorin.com/fr/intramuros)  
+[Confiture](http://www.carolinesorin.com/fr/confiture)  
+[Donne-moi tout ton argent](http://www.carolinesorin.com/fr/argent)  
+[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
 
 
 {{% /makeadiv %}}

@@ -26,10 +26,10 @@ Photographies : Andréa Corvo
 {{% makeadiv link %}}
 Autres projets :
 
-[Intra-muros](http://www.carolinesorin.com/projects_fr/intramuros)  
-[Confiture](http://www.carolinesorin.com/projects_fr/confiture)  
-[Not in my Backyard](http://www.carolinesorin.com/projects_fr/backyard)  
-[Top 10 Italia](http://www.carolinesorin.com/projects_fr/italia)  
+[Intra-muros](http://www.carolinesorin.com/fr/intramuros)  
+[Confiture](http://www.carolinesorin.com/fr/confiture)  
+[Not in my Backyard](http://www.carolinesorin.com/fr/backyard)  
+[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
 
 
 {{% /makeadiv %}}

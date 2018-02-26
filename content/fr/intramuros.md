@@ -14,10 +14,10 @@ weight: 14
 {{% makeadiv link %}}
 Autres projets :
 
-[Confiture](http://www.carolinesorin.com/projects_fr/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/projects_fr/argent)  
-[Not in my Backyard](http://www.carolinesorin.com/projects_fr/backyard)  
-[Top 10 Italia](http://www.carolinesorin.com/projects_fr/italia)  
+[Confiture](http://www.carolinesorin.com/fr/confiture)  
+[Donne-moi tout ton argent](http://www.carolinesorin.com/fr/argent)  
+[Not in my Backyard](http://www.carolinesorin.com/fr/backyard)  
+[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
 
 {{% /makeadiv %}}
 

@@ -27,10 +27,10 @@ Spécimen typographique bilingue pour la typographie libre Lato, à la fois post
 {{% makeadiv link %}}
 Autres projets :
 
-[Exemplaires](http://www.carolinesorin.com/projects_fr/exemplaires)  
-[The Belgian Cookbook](http://www.carolinesorin.com/projects_fr/belgian)  
-[The Machine in the Ghost](http://www.carolinesorin.com/projects_fr/machine)  
-[Mash up](http://www.carolinesorin.com/projects_fr/archi)  
+[Exemplaires](http://www.carolinesorin.com/fr/exemplaires)  
+[The Belgian Cookbook](http://www.carolinesorin.com/fr/belgian)  
+[The Machine in the Ghost](http://www.carolinesorin.com/fr/machine)  
+[Mash up](http://www.carolinesorin.com/fr/archi)  
 
 {{% /makeadiv %}}
 

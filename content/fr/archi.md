@@ -28,10 +28,10 @@ Et vingt-et-un motifs numériques (créés à partir de dessins d'architecture p
 {{% makeadiv link-right %}}
 Autres projets :
 
-[Exemplaires](http://www.carolinesorin.com/projects_fr/exemplaires)  
-[The Belgian Cookbook](http://www.carolinesorin.com/projects_fr/belgian)  
-[The Machine in the Ghost](http://www.carolinesorin.com/projects_fr/machine)  
-[Lato](http://www.carolinesorin.com/projects_fr/lato)  
+[Exemplaires](http://www.carolinesorin.com/fr/exemplaires)  
+[The Belgian Cookbook](http://www.carolinesorin.com/fr/belgian)  
+[The Machine in the Ghost](http://www.carolinesorin.com/fr/machine)  
+[Lato](http://www.carolinesorin.com/fr/lato)  
 
 {{% /makeadiv %}}
 

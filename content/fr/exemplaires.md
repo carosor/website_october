@@ -70,10 +70,10 @@ Reportage pendant les différents évènements, documentation du montage des exp
 {{% makeadiv link %}}
 Autres projets :
 
-[The Machine in the Ghost](http://www.carolinesorin.com/projects_fr/machine)  
-[The Belgian Cookbook](http://www.carolinesorin.com/projects_fr/belgian)  
-[Lato](http://www.carolinesorin.com/projects_fr/lato)  
-[Mash Up](http://www.carolinesorin.com/projects_fr/archi)  
+[The Machine in the Ghost](http://www.carolinesorin.com/fr/machine)  
+[The Belgian Cookbook](http://www.carolinesorin.com/fr/belgian)  
+[Lato](http://www.carolinesorin.com/fr/lato)  
+[Mash Up](http://www.carolinesorin.com/fr/archi)  
 
 
 {{% /makeadiv %}}

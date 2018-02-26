@@ -27,9 +27,9 @@ Dimensions variables, photos, vidéo (13min), son, 2017
 {{% makeadiv link %}}
 Autres projets :
 
-[92 110](http://www.carolinesorin.com/projects_fr/92110)  
-[Image manquante](http://www.carolinesorin.com/projects_fr/manquant)  
-[Dérive](http://www.carolinesorin.com/projects_fr/derive)  
+[92 110](http://www.carolinesorin.com/fr/92110)  
+[Image manquante](http://www.carolinesorin.com/fr/manquant)  
+[Dérive](http://www.carolinesorin.com/fr/derive)  
 
 {{% /makeadiv %}}
 

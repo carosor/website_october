@@ -33,10 +33,10 @@ http://comgraph.hear.fr/2015/03/html-sauce-cocktail/
 {{% makeadiv link-right %}}
 Autres projets :
 
-[Exemplaires](http://www.carolinesorin.com/projects_fr/exemplaires)  
-[Lato](http://www.carolinesorin.com/projects_fr/lato)  
-[The Machine in the Ghost](http://www.carolinesorin.com/projects_fr/machine)  
-[Mash Up](http://www.carolinesorin.com/projects_fr/archi)  
+[Exemplaires](http://www.carolinesorin.com/fr/exemplaires)  
+[Lato](http://www.carolinesorin.com/fr/lato)  
+[The Machine in the Ghost](http://www.carolinesorin.com/fr/machine)  
+[Mash Up](http://www.carolinesorin.com/fr/archi)  
 
 {{% /makeadiv %}}
 

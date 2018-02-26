@@ -30,10 +30,10 @@ Spécimen typographique reprenant des paroles emblématiques de chansons italien
 {{% makeadiv link %}}
 Autres projets :
 
-[Intra-muros](http://www.carolinesorin.com/projects_fr/intramuros)  
-[Confiture](http://www.carolinesorin.com/projects_fr/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/projects_fr/argent)  
-[Not in my Backyard](http://www.carolinesorin.com/projects_fr/backyard)  
+[Intra-muros](http://www.carolinesorin.com/fr/intramuros)  
+[Confiture](http://www.carolinesorin.com/fr/confiture)  
+[Donne-moi tout ton argent](http://www.carolinesorin.com/fr/argent)  
+[Not in my Backyard](http://www.carolinesorin.com/fr/backyard)  
 
 {{% /makeadiv %}}
 

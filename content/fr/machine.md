@@ -38,10 +38,10 @@ http://comgraph.hear.fr/2017/01/haunted-by-algorithms/
 {{% makeadiv link-right %}}
 Autres projets :
 
-[Exemplaires](http://www.carolinesorin.com/projects_fr/exemplaires)  
-[The Belgian Cookbook](http://www.carolinesorin.com/projects_fr/belgian)  
-[Lato](http://www.carolinesorin.com/projects_fr/lato)  
-[Mash Up](http://www.carolinesorin.com/projects_fr/archi)  
+[Exemplaires](http://www.carolinesorin.com/fr/exemplaires)  
+[The Belgian Cookbook](http://www.carolinesorin.com/fr/belgian)  
+[Lato](http://www.carolinesorin.com/fr/lato)  
+[Mash Up](http://www.carolinesorin.com/fr/archi)  
 
 {{% /makeadiv %}}
 

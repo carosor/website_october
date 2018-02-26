@@ -25,9 +25,9 @@ Projet réalisé dans le cadre d'un workshop avec [David De Beyter](http://www.d
 {{% makeadiv link %}}
 Autres projets :
 
-[92 110](http://www.carolinesorin.com/projects_fr/92110)  
-[Long-Distance Memories](http://www.carolinesorin.com/projects_fr/longdistance)  
-[Dérive](http://www.carolinesorin.com/projects_fr/derive)  
+[92 110](http://www.carolinesorin.com/fr/92110)  
+[Long-Distance Memories](http://www.carolinesorin.com/fr/longdistance)  
+[Dérive](http://www.carolinesorin.com/fr/derive)  
 
 {{% /makeadiv %}}
 

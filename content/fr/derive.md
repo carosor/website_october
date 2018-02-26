@@ -26,9 +26,9 @@ Choisir de ne pas choisir. Une réflexion sur d’où je viens et pourquoi je su
 {{% makeadiv link-right %}}
 Autres projets :
 
-[92 110](http://www.carolinesorin.com/projects_fr/92110)  
-[Image manquante](http://www.carolinesorin.com/projects_fr/manquant)  
-[Long-Distance Memories](http://www.carolinesorin.com/projects_fr/longdistance)  
+[92 110](http://www.carolinesorin.com/fr/92110)  
+[Image manquante](http://www.carolinesorin.com/fr/manquant)  
+[Long-Distance Memories](http://www.carolinesorin.com/fr/longdistance)  
 
 {{% /makeadiv %}}
 
