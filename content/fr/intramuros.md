@@ -9,15 +9,16 @@ weight: 14
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/intramuros/img4.jpg" class="img-project" >}}
+{{< figure src="../../img/intramuros/img4.jpg" class="img-max" >}}
 
 {{% makeadiv link %}}
 Autres projets :
 
-[Confiture](http://www.carolinesorin.com/fr/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/fr/argent)  
-[Not in my Backyard](http://www.carolinesorin.com/fr/backyard)  
-[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
+[Confiture](https://carolinesorin.com/fr/confiture)  
+[Donne-moi tout ton argent](https://carolinesorin.com/fr/argent)  
+[Not in my Backyard](https://carolinesorin.com/fr/backyard)  
+[Top 10 Italia](https://carolinesorin.com/fr/italia)  
+[Mash Up](https://carolinesorin.com/fr/archi)
 
 {{% /makeadiv %}}
 
@@ -29,8 +30,8 @@ Où finit Paris ? Où commence la banlieue ? La frontière administrative est-el
 21 x 29,7 cm, 40 pages, impression numérique laser, piqûre à cheval, 2017
 {{% /makeadiv %}}
 
-{{< figure src="../../img/intramuros/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/intramuros/img1.jpg" class="img-max" >}}
 
-{{< figure src="../../img/intramuros/img3.jpg" class="img-project" >}}
+{{< figure src="../../img/intramuros/img3.jpg" class="img-max" >}}
 
 {{% /makeadiv %}}

@@ -9,9 +9,9 @@ weight: 4
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/derive/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/derive/img1.jpg" class="img-max" >}}
 
-{{< figure src="../../img/derive/img3.jpg" class="img-project" >}}
+{{< figure src="../../img/derive/img3.jpg" class="img-max" >}}
 
 {{% makeadiv desc %}}
 ### Dérive
@@ -26,9 +26,10 @@ Choisir de ne pas choisir. Une réflexion sur d’où je viens et pourquoi je su
 {{% makeadiv link-right %}}
 Autres projets :
 
-[92 110](http://www.carolinesorin.com/fr/92110)  
-[Image manquante](http://www.carolinesorin.com/fr/manquant)  
-[Long-Distance Memories](http://www.carolinesorin.com/fr/longdistance)  
+[92 110](https://carolinesorin.com/fr/92110)  
+[Image manquante](https://carolinesorin.com/fr/manquant)  
+[Long-Distance Memories](https://carolinesorin.com/fr/longdistance)  
+[Exemplaires](https://carolinesorin.com/fr/exemplaires)
 
 {{% /makeadiv %}}
 

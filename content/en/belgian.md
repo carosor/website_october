@@ -9,15 +9,15 @@ weight: 5
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/belgiancookbook/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/belgiancookbook/img1.jpg" class="img-max" >}}
 
 {{% makeadiv desc %}}
 ### The Belgian Cookbook
 
-Fifteen connected students working  on the same Framapad, trying out print design with web tools. 
+Fifteen connected students worked  on the same Framapad, trying out print design with web tools. 
 
 Workshop under the direction of Stéphanie Vilayphiou and Colm O’Neill from [OSP](http://osp.kitchen/). 
-Project made in collaboration  with [So-Hyun Bae](http://baesohyun.com/).
+Project made  with [So-Hyun Bae](http://baesohyun.com/).
 
 
 10,5 x 14,8 cm, 300 index cards  and a paper box, laser print, 2015
@@ -34,10 +34,11 @@ http://comgraph.hear.fr/2015/03/html-sauce-cocktail/
 {{% makeadiv link-right %}}
 Other projects:
 
-[Exemplaires](http://www.carolinesorin.com/en/exemplaires)  
-[Lato](http://www.carolinesorin.com/en/lato)  
-[The Machine in the Ghost](http://www.carolinesorin.com/en/machine)  
-[Mash Up](http://www.carolinesorin.com/en/archi)  
+[Exemplaires](https://carolinesorin.com/en/exemplaires)  
+[Lato](https://carolinesorin.com/en/lato)  
+[The Machine in the Ghost](https://carolinesorin.com/en/machine)  
+[Mash Up](https://carolinesorin.com/en/archi)  
+[Confiture](https://carolinesorin.com/en/confiture)
 
 {{% /makeadiv %}}
 

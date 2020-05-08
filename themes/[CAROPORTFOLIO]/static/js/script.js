@@ -20,5 +20,5 @@ $("html, body").animate(
     500,
     swing,
     )
-});
+;
 

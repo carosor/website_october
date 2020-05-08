@@ -14,7 +14,7 @@ weight: 1
 {{% makeadiv desc %}}
 ### Not in my Backyard
 
-En 2013, le site de l'ancienne gare d'Auteuil, à l'abandon depuis plusieurs dizaines d'années, est sur le point de laisser la place à un projet immobilier HLM malgré l'opposition des riverains qui déposent des recours depuis 2009. Quelques mois avant le début des travaux, je suis allée immortaliser ce bout de friche, objet de discorde et symbole de la lutte des classes dans le seizième arrondissement.
+En 2013, le site de l'ancienne gare d'Auteuil, à l'abandon depuis plusieurs dizaines d'années, est sur le point de laisser la place à un projet immobilier HLM malgré l'opposition des riverains qui déposent des recours depuis 2009. Quelques mois avant le début des travaux, j'ai immortalisé ce bout de friche, objet de discorde et symbole de la lutte des classes dans le seizième arrondissement.
 
 20 x 28 cm, 16 pages, impression numérique, piqûre à cheval, 2013
 {{% /makeadiv %}}
@@ -24,11 +24,11 @@ En 2013, le site de l'ancienne gare d'Auteuil, à l'abandon depuis plusieurs diz
 {{% makeadiv link %}}
 Autres projets :
 
-[Intra-muros](http://www.carolinesorin.com/fr/intramuros)  
-[Confiture](http://www.carolinesorin.com/fr/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/fr/argent)  
-[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
-
+[Intra-muros](https://carolinesorin.com/fr/intramuros)  
+[Confiture](https://carolinesorin.com/fr/confiture)  
+[Donne-moi tout ton argent](https://carolinesorin.com/fr/argent)  
+[Top 10 Italia](https://carolinesorin.com/fr/italia)  
+[The Belgian Cookbook](https://carolinesorin.com/fr/belgian)
 
 {{% /makeadiv %}}
 

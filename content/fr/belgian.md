@@ -9,7 +9,7 @@ weight: 5
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/belgiancookbook/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/belgiancookbook/img1.jpg" class="img-max" >}}
 
 {{% makeadiv desc %}}
 ### The Belgian Cookbook
@@ -33,10 +33,11 @@ http://comgraph.hear.fr/2015/03/html-sauce-cocktail/
 {{% makeadiv link-right %}}
 Autres projets :
 
-[Exemplaires](http://www.carolinesorin.com/fr/exemplaires)  
-[Lato](http://www.carolinesorin.com/fr/lato)  
-[The Machine in the Ghost](http://www.carolinesorin.com/fr/machine)  
-[Mash Up](http://www.carolinesorin.com/fr/archi)  
+[Exemplaires](https://carolinesorin.com/fr/exemplaires)  
+[Lato](https://carolinesorin.com/fr/lato)  
+[The Machine in the Ghost](https://carolinesorin.com/fr/machine)  
+[Mash Up](https://carolinesorin.com/fr/archi)  
+[Confiture](https://carolinesorin.com/fr/confiture)
 
 {{% /makeadiv %}}
 

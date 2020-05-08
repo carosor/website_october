@@ -9,9 +9,9 @@ weight: 8
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/italia/img3.jpg" class="img-project" >}}
+{{< figure src="../../img/italia/img3.jpg" class="img-max" >}}
 
-{{< figure src="../../img/italia/img6.jpg" class="img-project" >}}
+{{< figure src="../../img/italia/img6.jpg" class="img-max" >}}
 
 {{% makeadiv desc %}}
 ### Top 10 Italia
@@ -21,19 +21,20 @@ A typographic specimen of the Italia font, using emblematic lyrics of famous Ita
 18 x 27 cm, laser print, saddle stitch binding, 2017
 {{% /makeadiv %}}
 
-{{< figure src="../../img/italia/img4.jpg" class="img-project" >}}
+{{< figure src="../../img/italia/img4.jpg" class="img-max" >}}
 
-{{< figure src="../../img/italia/img2.jpg" class="img-project" >}}
+{{< figure src="../../img/italia/img2.jpg" class="img-max" >}}
 
-{{< figure src="../../img/italia/img5.jpg" class="img-project" >}}
+{{< figure src="../../img/italia/img5.jpg" class="img-max" >}}
 
 {{% makeadiv link %}}
 Other projects:
 
-[Intra-muros](http://www.carolinesorin.com/en/intramuros)  
-[Confiture](http://www.carolinesorin.com/en/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/en/argent)  
-[Not in my Backyard](http://www.carolinesorin.com/en/backyard)  
+[Intra-muros](https://carolinesorin.com/en/intramuros)  
+[Confiture](https://carolinesorin.com/en/confiture)  
+[Donne-moi tout ton argent](https://carolinesorin.com/en/argent)  
+[Not in my Backyard](https://carolinesorin.com/en/backyard)  
+[Lato](https://carolinesorin.com/en/lato)
 
 {{% /makeadiv %}}
 

@@ -18,19 +18,20 @@ Projet réalisé dans le cadre d'un workshop avec [David De Beyter](http://www.d
 21 x 29,7 cm, 4 livrets de 16 images, impression numérique laser, 2017
 {{% /makeadiv %}}
 
-{{< figure src="../../img/manquante/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/manquante/img1.jpg" class="img-max" >}}
 
-{{< figure src="../../img/manquante/img3.jpg" class="img-project" >}}
+{{< figure src="../../img/manquante/img3.jpg" class="img-max" >}}
 
 {{% makeadiv link %}}
 Autres projets :
 
-[92 110](http://www.carolinesorin.com/fr/92110)  
-[Long-Distance Memories](http://www.carolinesorin.com/fr/longdistance)  
-[Dérive](http://www.carolinesorin.com/fr/derive)  
+[92 110](https://carolinesorin.com/fr/92110)  
+[Long-Distance Memories](https://carolinesorin.com/fr/longdistance)  
+[Dérive](https://carolinesorin.com/fr/derive)  
+[Confiture](https://carolinesorin.com/fr/confiture)
 
 {{% /makeadiv %}}
 
-{{< figure src="../../img/manquante/img2.JPG" class="img-project" >}}
+{{< figure src="../../img/manquante/img2.JPG" class="img-max" >}}
 
 {{% /makeadiv %}}

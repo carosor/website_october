@@ -9,7 +9,7 @@ weight: 1
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/backyard/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/backyard/img1.jpg" class="img-max" >}}
 
 {{% makeadiv desc %}}
 ### Not in my Backyard
@@ -19,16 +19,16 @@ In 2013, an abandoned train station in a wealthy neighborhood of Paris is about 
 20 x 28 cm, 16 pages, digital print, saddle stitch binding, 2013
 {{% /makeadiv %}}
 
-{{< figure src="../../img/backyard/img2.jpg" class="img-project" >}}
+{{< figure src="../../img/backyard/img2.jpg" class="img-max" >}}
 
 {{% makeadiv link %}}
 Other projects:
 
-[Intra-muros](http://www.carolinesorin.com/en/intramuros)  
-[Confiture](http://www.carolinesorin.com/en/confiture)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/en/argent)  
-[Top 10 Italia](http://www.carolinesorin.com/en/italia)  
-
+[Intra-muros](https://carolinesorin.com/en/intramuros)  
+[Confiture](https://carolinesorin.com/en/confiture)  
+[Donne-moi tout ton argent](https://carolinesorin.com/en/argent)  
+[Top 10 Italia](https://carolinesorin.com/en/italia)  
+[The Belgian Cookbook](https://carolinesorin.com/en/belgian)
 
 {{% /makeadiv %}}
 

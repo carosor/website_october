@@ -9,9 +9,9 @@ weight: 4
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/derive/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/derive/img1.jpg" class="img-max" >}}
 
-{{< figure src="../../img/derive/img3.jpg" class="img-project" >}}
+{{< figure src="../../img/derive/img3.jpg" class="img-max" >}}
 
 {{% makeadiv desc %}}
 ### Dérive
@@ -27,9 +27,10 @@ This book was made from personal archives (drawings and photographs) and failed 
 {{% makeadiv link-right %}}
 Other projects:
 
-[92 110](http://www.carolinesorin.com/en/92110)  
-[Image manquante](http://www.carolinesorin.com/en/manquant)  
-[Long-Distance Memories](http://www.carolinesorin.com/en/longdistance)  
+[92 110](https://carolinesorin.com/en/92110)  
+[Image manquante](https://carolinesorin.com/en/manquant)  
+[Long-Distance Memories](https://carolinesorin.com/en/longdistance)  
+[Exemplaires](https://carolinesorin.com/en/exemplaires)
 
 {{% /makeadiv %}}
 

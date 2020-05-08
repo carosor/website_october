@@ -9,35 +9,32 @@ weight: 10
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/confiture/img2.jpg" class="img-project" >}}
+{{< figure src="../../img/confiture/img1.jpg" class="img-big" >}}
 
 {{% makeadiv desc %}}
 ### Confiture
 
-Confiture est un projet de revue de sociologie culturelle. Au croisement des visual et cultural studies, elle se propose d’analyser la culture et en particulier les cultures populaires ou marginales.
-
-Le numéro zéro porte sur les questions de légitimité culturelle, le premier ira questionner la culture à l’ère d’Internet et le deuxième, les problématiques de représentation dans la culture populaire.
-
-Les textes ont été collectés sur [openedition.org](http://www.openedition.org/).
+Confiture est un projet de revue de sociologie culturelle.  
+Au croisement des visual et cultural studies, elle se propose d’analyser la culture et en particulier les cultures populaires ou marginales. Le numéro zéro porte sur les questions de légitimité culturelle.  
 
 13,5 x 25,5 cm, impression numérique laser, dos carré-collé, 2017
 
+Suivi : Philippe Delangle
 {{% /makeadiv %}}
-
-{{< figure src="../../img/confiture/img3.jpg" class="img-project" >}}
-
-{{< figure src="../../img/confiture/img4.jpg" class="img-project" >}}
-
-{{< figure src="../../img/confiture/img6.jpg" class="img-project" >}}
 
 {{% makeadiv link %}}
 Autres projets :
 
-[Intra-muros](http://www.carolinesorin.com/fr/intramuros)  
-[Donne-moi tout ton argent](http://www.carolinesorin.com/fr/argent)  
-[Not in my Backyard](http://www.carolinesorin.com/fr/backyard)  
-[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
+[Intra-muros](https://carolinesorin.com/fr/intramuros)  
+[Donne-moi tout ton argent](https://carolinesorin.com/fr/argent)  
+[Not in my Backyard](https://carolinesorin.com/fr/backyard)  
+[Top 10 Italia](https://carolinesorin.com/fr/italia)  
+[Dérive](https://carolinesorin.com/fr/derive)
 
 {{% /makeadiv %}}
+
+{{< figure src="../../img/confiture/img3.jpg" class="img-small" >}}
+
+{{< figure src="../../img/confiture/img2.jpg" class="img-max" >}}
 
 {{% /makeadiv %}}

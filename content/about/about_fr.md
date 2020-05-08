@@ -8,75 +8,71 @@ layout: single_fr
 
 {{% makeadiv flex %}}
 
-{{< figure src="../../img/about/img1.jpg" class="img-project" >}}
-
-{{% makeadiv medium-box %}}
-Caroline Sorin  
-Design graphique  
-[hello@carolinesorin.com](mailto:hello@carolinesorin.com)
-
-J’aime les livres et les mots, la sociologie et les tartes au citron.
-
-{{% /makeadiv %}}
 
 {{% makeadiv desc %}}
-Actuellement en quatrième année [Communication graphique](http://comgraph.hear.fr/) 
-à la [HEAR](http://www.hear.fr/) (Haute École des Arts du Rhin), Strasbourg 
+DNSEP [Communication graphique](http://comgraph.hear.fr/) (félicitations)  
+[HEAR](http://www.hear.fr/) (Haute école des arts du Rhin), Strasbourg  
+juin 2019 
 
-Semestre d’échange à la [Willem de Kooning Academy](https://www.wdka.nl/), Rotterdam, section Graphic Design  
+Semestre d’échange, section Graphic Design  
+[Willem de Kooning Academy](https://www.wdka.nl/), Rotterdam  
 août 2017 - février 2018
 
-DNAP Communication graphique 
-à la [HEAR](http://www.hear.fr/) (Haute École des Arts du Rhin), Strasbourg  
+DNAP Communication graphique (mention)  
+[HEAR](http://www.hear.fr/) (Haute école des arts du Rhin), Strasbourg  
 juin 2017  
-Mention pour la qualité du travail éditorial
+
 
 {{% /makeadiv %}}
 
-{{% makeadiv desc-centered %}}
-Participation à l’exposition collective  [Haunted by Algorithms](http://hauntedbyalgorithms.net/) créée par [Jeff Guess](http://www.guess.fr/) et [Gwenola Wagon](http://www.gwenolawagon.com/) à la [Galerie Ygrec](http://www.ensapc.fr/fr/ygrec/galerie), Paris  
-21 janvier - 5 mars 2017  
-Design éditorial
 
-Conception du catalogue de la [HEAR](http://www.hear.fr/) pour la deuxième biennale [Exemplaires](http://exemplaires2017.fr/)  
-octobre 2016 - mars 2017  
-Mise en page et textes
+{{% makeadiv desc %}}
+Stage ⇾ [(Team) Alexis Zurflüh](http://alexiszurflueh.com/), Munich  
+Design éditorial et vidéo  
+juillet - septembre 2018   
 
-Workshop photo  
-sous la direction de [Florence Paradeis](http://www.insituparis.fr/fr/artistes/presentation/3810/paradeis_florence)  
-janvier et mars 2016, cinq jours
+Communication graphique pour les expositions  
+[Is this you in the video?](https://www.hear.fr/agenda/aram-bartholl-is-this-in-the-video/) et [Morituri te salutant !](https://www.hear.fr/agenda/morituri-te-salutant/)  
+Affiches, invitations, bannières numériques
+2018  
 
-Workshop « Outils conviviaux »  
-sous la direction de [Sarah Garcin](http://www.sarahgarcin.com/), membre de [g.u.i](http://www.g-u-i.net/) et [OLA](http://www.outilslibresalternatifs.org/)  
-janvier 2016, trois jours  
-Web design (HTML, CSS, Jquery)  
-Projet consultable ici : http://andreacorvo.com/cooooooook/
-
-Stagiaire graphiste chez Hermès International   
-1er juin - 25 septembre 2015  
-Réalisation d’invitations (print & mailing)  et de divers objets graphiques pour la communication interne et externe du groupe  
-
-Workshop « HTML to print »  
-sous la direction de Stéphanie Vilayphiou et Colm O’Neill de [OSP](http://osp.kitchen/)  
-mars 2015, cinq jours  
-Design génératif (HTML, CSS)
-
-Workshop « Culture du code »
-sous la direction de Stéphane Buellet de [Chevalvert](https://chevalvert.fr/)   
-janvier 2015, trois jours  
-Initiation à la programmation
-
-{{% /makeadiv %}}
-
-{{% makeadiv desc-centered %}}
-Anglais courant
+Workshop ⇾ [Aram Bartholl](arambartholl.com)  
+avril 2018  
 
 {{% /makeadiv %}}
 
 {{% makeadiv desc %}}
-Site créé avec [Hugo](https://gohugo.io) et [Gaëtan Sorin](http://gaetansorin.com/)  
-Fonte: Terminal Grotesque créée par [Raphaël Bastide](https://raphaelbastide.com/), modifiée par [Jérémy Landes](http://studiotriple.fr/) et distribuée par [Velvetyne Type Foundry](http://www.velvetyne.fr/)  
-Toutes les images et textes m'appartiennent et ne sont pas utilisables sans mon autorisation. 
+Conception du catalogue de la [HEAR](http://www.hear.fr/) pour la deuxième biennale [Exemplaires](http://exemplaires2017.fr/)  
+Mise en page et rédaction  
+2017  
+
+Participation à l’exposition collective  [Haunted by Algorithms](http://hauntedbyalgorithms.net/) créée par [Jeff Guess](http://www.guess.fr/) et [Gwenola Wagon](http://www.gwenolawagon.com/)  
+à la [Galerie Ygrec](http://www.ensapc.fr/fr/ygrec/galerie), Paris  
+janvier - mars 2017  
+
+Workshop photo ⇾ [Florence Paradeis](http://www.insituparis.fr/fr/artistes/presentation/3810/paradeis_florence)  
+janvier et mars 2016
+
+Workshop « Outils conviviaux » ⇾ [Sarah Garcin](http://www.sarahgarcin.com/)  
+janvier 2016  
+
+Stage ⇾ Hermès International, Paris   
+Design graphique  
+juin - septembre 2015  
+
+Workshop « Html2print » ⇾ Stéphanie Vilayphiou et Colm O’Neill de [OSP](http://osp.kitchen/)  
+mars 2015 
+
+{{% /makeadiv %}}
+
+{{< figure src="../../img/about/img1.jpg" class="img-max" >}}
+
+{{% makeadiv desc %}}
+Site créé avec [Hugo](https://gohugo.io) et [Gaëtan Sorin](http://gaetansorin.com/).  
+Fonte: Terminal Grotesque créée par [Raphaël Bastide](https://raphaelbastide.com/), modifiée par [Jérémy Landes](http://studiotriple.fr/) et distribuée par [Velvetyne Type Foundry](http://www.velvetyne.fr/).  
+Sauf mention contraire, les images et textes m'appartiennent et ne sont pas utilisables sans mon autorisation.  
+  
+
 
 {{% /makeadiv %}}
 

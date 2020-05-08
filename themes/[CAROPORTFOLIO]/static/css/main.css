@@ -1,5 +1,5 @@
 body {
-    font-family: "Terminal Grotesque", Helvetica, sans-serif;
+    font-family: "Terminal Grotesque", Arial, sans-serif;
     color: black;
     font-weight: normal;
     padding : 30px;
@@ -9,12 +9,12 @@ h1 {
     display : inline-block;
     margin : 0 auto;
     padding : 0;
-    font-family: "Terminal Grotesque Open", Helvetica, sans-serif;
+    font-family: "Terminal Grotesque Open", Arial, sans-serif;
     font-weight: normal;
 }
 
 h3 {
-    font-family: "Terminal Grotesque", Helvetica, sans-serif;
+    font-family: "Terminal Grotesque", Arial, sans-serif;
     color: black;
     font-weight: normal;
     margin-top: 0;
@@ -111,69 +111,86 @@ test de grid mais trop rigide
 #j11 { background-image: url(../img/img4.jpg);background-size: cover;
     z-index: -1; background-repeat: no-repeat; }
 #j12 { background-image: url(../img/img11.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; } */
+    z-index: -1; background-repeat: no-repeat; } 
 
 .id-mail {
     text-decoration: none;
     color: inherit;
+}*/
+
+header {
+    margin: 10px 20px 40px 20px;
 }
 
 .id {
-    /*margin-left: 10px;*/
-    margin-top: 10px;
     display: inline-block;
-    /*position: fixed;*/
-    margin-bottom: 40px;
+    width: 20%;
 }
 
 .about {
-    margin-right: 30px;
-    margin-top: 10px;
     display: inline-block;
     position: absolute;
-    /*position: fixed;*/
-    margin-bottom: 40px;
-    right: 0;
+    /*right: 0;*/
+    text-align: right;
+    width: 33%;
+}
+
+.contact {
+    display: inline-block;
+    width: 40%;
+}
+
+
+section {
+    margin-top: 3%;
+}
+
+.home-title {
+    font-size: 20pt;
+}
+
+.title-box {
+    /*margin: auto;
+    max-width: 700px;*/
+    padding-bottom: 20px;
+    z-index: 100;
+}
+
+#home-image {
+    /*margin: auto;*/
+    width: 650px;
+    height: 415px;
+    background-image: url(../img/couv_2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: -100;
+    position: relative;
+    /*top: -100px;*/
+    left: 5%;
+}
+
+
+footer {
+    margin-top: 5%;
+    position: absolute;
+    width: 95%;
 }
 
 .lang {
     display: inline-block;
-    /*margin-left: 10px;*/
-    margin-bottom: 10px;
-    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 .scrolltop {
     margin-right: 30px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    display: inline-block;
-    position: absolute;
+    margin-top: 10px;
+    margin-bottom: 20px;
     right: 0;
+    position: absolute;
 }
 
-.home-title {
-    font-size: 25pt;
-}
-
-.title-box {
-    margin: auto;
-    max-width: 650px;
-    padding-bottom: 20px;
-}
-
-#home-image {
-    margin: auto;
-    width: 650px;
-    height: 415px;
-    background-image: url(../img/couv.jpg);
-    background-repeat: no-repeat;
-}
-
-section {
-    max-width: 100%;
-    margin: auto;
-}
 
 .medium-box {
     max-width: 450px;
@@ -190,15 +207,11 @@ section {
         background-image: url(../img/img4.jpg);
     }
 }
+*/
 
-/*ici c'est les style pour chaque type de template, minimum 3 éléments :
-une div de description du contenu (et titre), une div de liens vers d'autres
-projets et une ou plusieurs images.*/
 .desc {
     max-width: 380px;
-    padding: 20px;
-    /*border: solid 1px;
-    grid-area: d;*/
+    padding: 15px;
 }
 
 .desc-centered {
@@ -206,8 +219,6 @@ projets et une ou plusieurs images.*/
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
-    /*border: solid 1px;
-    grid-area: d;*/
 }
 
 .link {
@@ -215,11 +226,6 @@ projets et une ou plusieurs images.*/
     z-index: 100;
     padding: 20px;
     margin-right: auto;
-    /* grid-area: l;
-    display: inline-block;
-    border: solid 1px;
-    right: 0;
-    position: absolute;*/
 }
 
 .link-right {
@@ -227,46 +233,43 @@ projets et une ou plusieurs images.*/
     z-index: 100;
     padding: 20px;
     margin-left: auto;
-    /* grid-area: l;
-    display: inline-block;
-    border: solid 1px;
-    right: 0;
-    position: absolute;*/
 }
 
-.img-project {
+.img-max {
     max-width: 100%;
     z-index: -1;
-    /* grid-area: i;
-    position: absolute;
-    margin: 0;*/
 }
 
-
-
-/*.img2 {
-    max-width: 100%;
+.img-big {
+    max-width: 65%;
     z-index: -1;
-    grid-area: ii;
-    position: absolute;
-    margin: 0;
 }
 
-.img3 {
-    max-width: 100%;
+.img-small {
+    max-width: 45%;
     z-index: -1;
-    grid-area: iii;
-    position: absolute;
-    margin: 0;
+}
+
+.img-tiny {
+    max-width: 30%;
+    z-index: -1;
 }
 
 
-footer {
-    margin-left: 10px;
-    margin-bottom: 10px;
-    position: fixed;
-    bottom: 0;
-}*/
+/*used in bartholl's page*/
+.img-border {
+    box-sizing: content-box;
+    border: 1px solid black;
+    max-width: 40%;
+}
+
+.img-vertical {
+    display: none;
+}
+
+
+
+
 
 @media only screen and (min-width:1400px) {
     .flex {
@@ -274,25 +277,111 @@ footer {
     }
 }
 
-@media only screen and (max-width:700px) {
+
+
+@media only screen and (max-width:800px) {
     h1 {
         font-size: smaller;
     }
         #home-image {
-        margin: auto;
+        /*margin: auto;*/
         width: 350px;
         height: 415px;
-        background-image: url(../img/couv.jpg);
+        background-image: url(../img/couv_2.jpg);
         background-repeat: no-repeat;
+        background-size: 100%;
+        left: 45%;
+        /*top: -150px;*/
+    }
+    .img-tiny {
+        max-width: 100%;
+    }
+
+    .img-big {
+        max-width: 100%;
+    }
+
+    .img-small {
+        max-width: 100%;
+    }
+
+/*used in bartholl's page*/
+    .img-border {
+        box-sizing: content-box;
+        border: 1px solid black;
+        max-width: 100%;
+    }
+
+    .img-horizontal {
+        display: none;
+    }
+
+    .img-vertical {
+        display: flex;
     }
 }
 
-@media only screen and (max-width:400px) {
+
+
+@media only screen and (max-width:666px) {
     #home-image {
         display: none;
     }
-    
+
+    figure {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .img-tiny {
+        max-width: 100%;
+    }
+
+    .img-big {
+        max-width: 100%;
+    }
+
+    .img-small {
+        max-width: 100%;
+    }
+
     h1 {
         font-size: smaller;
     }    
+
+    header {
+        margin-bottom: 60px;
+    }
+
+    .id {
+        margin: 10px;
+        display: block;
+        width: 100%;
+    }
+
+    .about {
+        margin: 10px;
+        display: block;
+        width: 100%;
+        text-align: right;
+        position: static;
+    }
+
+    .contact {
+        margin: 10px;
+        display: block;
+        width: 100%;
+    }
+
+    .desc {
+        padding: 0px;
+    }
+
+    footer {
+        position: static;
+    }
+
+    section {
+        margin-top: 10%;
+    }
 }

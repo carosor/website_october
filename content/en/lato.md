@@ -9,7 +9,7 @@ weight: 6
 
 {{% makeadiv flex %}}
 
-{{% makeadiv desc-centered %}}
+{{% makeadiv desc %}}
 ### Lato - A Small Open Source Dictionary
 
 Typographic specimen, poster  and booklet at the same time.  Presenting words of the open source world and their definitions, using  the Lato free font.
@@ -17,19 +17,18 @@ Typographic specimen, poster  and booklet at the same time.  Presenting word
 20 posters-booklets of 29,7 x 42 cm  (flat) and 10,5 x 14,8 cm when folded,  laser print, 2016
 {{% /makeadiv %}}
 
-{{< figure src="../../img/lato/img1.jpg" class="img-project" >}}
+{{< figure src="../../img/lato/img1.jpg" class="img-tiny" >}}
 
-{{< figure src="../../img/lato/img4.jpg" class="img-project" >}}
-
-{{< figure src="../../img/lato/img3.jpg" class="img-project" >}}
+{{< figure src="../../img/lato/img4.jpg" class="img-max" >}}
 
 {{% makeadiv link %}}
 Other projects:
 
-[Exemplaires](http://www.carolinesorin.com/en/exemplaires)  
-[The Belgian Cookbook](http://www.carolinesorin.com/en/belgian)  
-[The Machine in the Ghost](http://www.carolinesorin.com/en/machine)  
-[Mash Up](http://www.carolinesorin.com/en/archi)  
+[Exemplaires](https://carolinesorin.com/en/exemplaires)  
+[The Belgian Cookbook](https://carolinesorin.com/en/belgian)  
+[The Machine in the Ghost](https://carolinesorin.com/en/machine)  
+[Mash Up](https://carolinesorin.com/en/archi)  
+[Long-Distance Memories](https://carolinesorin.com/en/longdistance)
 
 {{% /makeadiv %}}
 

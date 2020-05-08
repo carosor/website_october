@@ -21,16 +21,17 @@ Magazine réalisé à quatre mains avec [Andréa Corvo](http://andreacorvo.com/
 Textes et mise en page : Andréa Corvo & Caroline Sorin  
 Dessins : Caroline Sorin  
 Photographies : Andréa Corvo  
+Suivi : Jérôme Saint-Loubert Bié
 {{% /makeadiv %}}
 
 {{% makeadiv link %}}
 Autres projets :
 
-[Intra-muros](http://www.carolinesorin.com/fr/intramuros)  
-[Confiture](http://www.carolinesorin.com/fr/confiture)  
-[Not in my Backyard](http://www.carolinesorin.com/fr/backyard)  
-[Top 10 Italia](http://www.carolinesorin.com/fr/italia)  
-
+[Intra-muros](https://carolinesorin.com/fr/intramuros)  
+[Confiture](https://carolinesorin.com/fr/confiture)  
+[Not in my Backyard](https://carolinesorin.com/fr/backyard)  
+[Top 10 Italia](https://carolinesorin.com/fr/italia)  
+[Exemplaires](https://carolinesorin.com/fr/exemplaires)
 
 {{% /makeadiv %}}
 

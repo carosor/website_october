@@ -2,6 +2,7 @@
 <html lang="en">
     {{ partial "header_en.html" . }}
     <section>
+        
         <div class="title-box">
         {{ range .Site.RegularPages.ByWeight.Reverse }}
             {{ if and (eq .Type "en") (ne .Title "Home")}}
